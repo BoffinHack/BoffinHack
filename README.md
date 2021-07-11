@@ -1,16 +1,12 @@
-### Hi there 👋
+# Привет :alien:
+<p align='center'>
+   
+   <a href="https://t.me/BoffinHack">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 Почта : <a href='boffinhacks@gmail.com'>boffinhacks@gmail.com</a>
+</p>
 
-<!--
-**BoffinHack/BoffinHack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Привет! В моем профиле уже и еще будут представлены проекты разного уровня, которые могут помочь другим программистам. Хотя со временем и сложные проекты становятся легкими. 
+Основные языки которые я затрагивал в проектах: С/C++, JS, CSS.
